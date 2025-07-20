@@ -1,6 +1,8 @@
+Create a new app using the provided tech stack mainly nextjs and follow the specified solution principles. The project should be a web application that allows users to manage their tasks effectively.
+
 Tech Stack:
 - Node.js
-- Next.js - for web application
+- Next.js
 - Express.js
 - MySQL
 - React.js
