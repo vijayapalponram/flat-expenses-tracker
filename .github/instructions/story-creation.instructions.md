@@ -13,6 +13,7 @@ Break down the features into smaller, manageable stories.
     - [Criterion 3]
   - **Priority**: [High/Medium/Low]
   - **Estimation**: [Story points or time estimate]
+  - **Order**: [Execution order if applicable]
 - Save each stories into separate readme file, follow this naming convention `story-[story-title].md` and persist everything into 'docs/backlog/' directory.
 
 - Add the NFR stories as well including Authentication, Authorization, Security, Usability, Performance, Maintanability, Scalability, and Reliability.

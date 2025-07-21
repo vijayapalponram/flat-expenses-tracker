@@ -1,5 +1,7 @@
 # Story: Maintenance Payment Recording
 
+**Execution Order**: 6
+
 **Description**: Admin can record monthly maintenance payments for each flat.
 
 ## Acceptance Criteria

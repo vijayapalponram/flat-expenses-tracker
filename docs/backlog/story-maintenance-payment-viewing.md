@@ -1,5 +1,7 @@
 # Story: Maintenance Payment Viewing
 
+**Execution Order**: 7
+
 **Description**: Residents can view their monthly maintenance payment status and history.
 
 ## Acceptance Criteria

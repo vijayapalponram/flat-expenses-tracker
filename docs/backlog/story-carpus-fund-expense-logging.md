@@ -1,5 +1,7 @@
 # Story: Carpus Fund Expense Logging
 
+**Execution Order**: 10
+
 **Description**: Admin can log expenses spent against the carpus fund.
 
 ## Acceptance Criteria

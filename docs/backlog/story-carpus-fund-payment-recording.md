@@ -1,5 +1,7 @@
 # Story: Carpus Fund Payment Recording
 
+**Execution Order**: 9
+
 **Description**: Admin can record yearly carpus fund payments for each flat.
 
 ## Acceptance Criteria

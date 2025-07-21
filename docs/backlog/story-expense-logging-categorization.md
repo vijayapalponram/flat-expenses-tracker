@@ -1,5 +1,7 @@
 # Story: Expense Logging & Categorization
 
+**Execution Order**: 8
+
 **Description**: Admin can log and categorize monthly expenses for the flat.
 
 ## Acceptance Criteria
